@@ -3,36 +3,41 @@
     ?size=22
     &center=true
     &vCenter=true
-    &width=600
-    &lines=Java+Backend+%7C+AI+Agent+Explorer;
+    &width=650
+    &lines=Java+Backend+Engineer+%7C+AI+Agent+Explorer;
     Distributed+Systems+%26+Real-Time+Processing" />
 </p>
+
+---
 
 ### 👋 Hi, I'm Zewang
 
 > Java Backend Engineer (Entry-Level)  
-> Focused on **Distributed Systems**, **AI Agents**, and **High-throughput Backend Design**
+> Focused on **Distributed Systems**, **High-throughput Backend**, and **AI Agents**
 
-I’m passionate about building **reliable backend systems** and exploring how **LLMs & Agents** can enhance developer productivity and system intelligence.
+I am interested in building **reliable, scalable backend systems**, and exploring how **LLMs & Agent architectures** can be applied to real engineering scenarios.
 
 ---
 
 ## 🛠 Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,docker,git" />
+</p>
+
 **Backend & Infrastructure**
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-**AI & Engineering Tools**
+![Java](https://img.shields.io/badge/Java-Core-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-green)
+![Kafka](https://img.shields.io/badge/Kafka-Stream%20Processing-black)
+![Redis](https://img.shields.io/badge/Redis-Caching-red)
+![MySQL](https://img.shields.io/badge/MySQL-Transactional-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 
-![LangChain4j](https://img.shields.io/badge/LangChain4j-0A0A0A?style=flat)
-![LLM](https://img.shields.io/badge/LLM-Reasoning%20%26%20Tools-blue)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+**AI & Engineering**
+
+![LLM](https://img.shields.io/badge/LLM-Reasoning%20%26%20Tools-blueviolet)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-Agent%20Framework-black)
 
 ---
 
@@ -41,10 +46,12 @@ I’m passionate about building **reliable backend systems** and exploring how *
 ### 🔥 Real-time Sentiment Analysis System
 **Kafka · Spring Boot · Stream Processing**
 
-- Designed a **high-throughput message ingestion pipeline** using Kafka
-- Structured chat messages and produced real-time sentiment signals
-- Generated alerts based on sentiment trends and thresholds  
-> Focus: throughput, data modeling, and real-time processing
+- Designed a **high-throughput chat message ingestion pipeline** using Kafka
+- Modeled structured messages for real-time sentiment analysis
+- Generated alerts based on sentiment trends and configurable thresholds  
+- Focused on **throughput, data modeling, and real-time processing**
+
+> Keywords: Kafka, Producer design, Stream processing, system scalability
 
 ---
 
@@ -52,9 +59,11 @@ I’m passionate about building **reliable backend systems** and exploring how *
 **LangChain4j · LLM · Tool Calling**
 
 - Built an AI Agent to **evaluate and improve generated code**
-- Integrated rule-based checks with LLM reasoning
-- Designed extensible tool interfaces for future RAG / metrics integration  
-> Focus: agent architecture, tool design, evaluation logic
+- Combined **rule-based checks** with **LLM reasoning**
+- Designed extensible tool interfaces for future RAG and metrics integration
+- Emphasized **agent architecture** and **evaluation logic**
+
+> Keywords: AI Agent, Tool Calling, LLM evaluation, extensibility
 
 ---
 
@@ -63,11 +72,11 @@ I’m passionate about building **reliable backend systems** and exploring how *
 - AI Agent architecture & evaluation strategies
 - Kafka-based high-concurrency backend systems
 - Multi-level caching design (Caffeine + Redis)
-- Observability & engineering best practices in microservices
+- Backend engineering best practices & observability
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&hide_title=true" />
@@ -79,10 +88,10 @@ I’m passionate about building **reliable backend systems** and exploring how *
 
 ---
 
-## 📫 Contact & More
+## 📫 Contact
 
 - GitHub: https://github.com/Zewang0217
 - Blog / Notes: (to be added)
-- Resume: (available upon request)
+- Resume: Available upon request
 
-> Always open to backend / platform / AI-related opportunities.
+> Open to **Backend / Platform / AI-related opportunities**.
