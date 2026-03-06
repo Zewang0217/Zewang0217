@@ -77,12 +77,15 @@
 
 ## 📈 开源统计 (GitHub Stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zewang's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true&background=0D1117" alt="Zewang's GitHub streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Zewang's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" alt="Zewang's GitHub streak" height="165" />
+</p>
 
-<br/>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" alt="Visitor Count" />
+</p>
