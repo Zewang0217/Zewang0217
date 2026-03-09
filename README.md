@@ -73,15 +73,22 @@
 
 ## 📈 开源统计 (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
   <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" alt="Visitor Count" />
-</p>
+</div>>
