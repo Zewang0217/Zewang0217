@@ -87,6 +87,6 @@
   <br/>
   
   <p align="right">
-    <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Zewang0217&label=Profile%20views&color=2563eb&style=flat" alt="Visitor Count" />
   </p>
 </div>
