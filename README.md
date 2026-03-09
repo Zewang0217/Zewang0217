@@ -78,12 +78,12 @@
 ## 📈 开源统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=transparent&title_color=2563eb&text_color=ffffff&icon_color=2563eb&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=transparent&currStreakNum=ffffff&fire=2563eb&sideLabels=ffffff&sideNumbers=ffffff&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
