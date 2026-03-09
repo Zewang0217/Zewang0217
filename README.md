@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Zewang%20!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Java%20/%20AI%20Backend%20Developer%20&descAlignY=61&descAlign=62" />
-</div>
 
-<div align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=👨‍🎓+East+China+Normal+University+Student;💻+Java+%26+Spring+Boot+Developer;🤖+AI+Agent+%26+LLM+Builder" alt="Typing SVG" />
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=👨‍🎓+Student+at+ECNU;💻+Java+%26+Spring+Boot+Developer;🤖+AI+Agent+Explorer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 关于我 (About Me)
