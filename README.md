@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Zewang0217">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=👨‍🎓+Student+at+East+China+Normal+University;💻+Java+%26+Spring+Boot+Developer;🤖+AI+Agent+%26+LLM+Application+Builder" alt="Typing SVG" />
-  </a>
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=👨‍🎓+East+China+Normal+University+Student;💻+Java+%26+Spring+Boot+Developer;🤖+AI+Agent+%26+LLM+Builder" alt="Typing SVG" />
+  </div>
 </div>
 
 ## 👨‍💻 关于我 (About Me)
@@ -78,8 +78,8 @@
 ## 📈 开源统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Zewang's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" alt="Zewang's GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=transparent&title_color=2563eb&text_color=ffffff&icon_color=2563eb&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=transparent&currStreakNum=ffffff&fire=2563eb&sideLabels=ffffff&sideNumbers=ffffff&hide_border=true" height="165" />
 </p>
 
 <p align="center">
