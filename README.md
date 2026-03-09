@@ -74,13 +74,20 @@
 ## 📈 开源统计 (GitHub Stats)
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Zewang0217?base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/Zewang0217?base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=true&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%" />
 
-  <br/>
+  <br/><br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+
+  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=tokyonight&hide_border=true" height="170px" />
   
   <br/>
-
-  <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" alt="Visitor Count" />
+  
+  <p align="right">
+    <img src="https://profile-counter.glitch.me/Zewang0217/count.svg" alt="Visitor Count" />
+  </p>
 </div>
