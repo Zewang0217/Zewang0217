@@ -74,7 +74,7 @@
 ## 📈 开源统计 (GitHub Stats)
 
 <div align="center">
-    <img src="https://metrics.lecoq.io/Zewang0217?base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%" onerror="this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true'"/>
+    <img src="https://metrics.run/Zewang0217?base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%" />
   <br/><br/>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
