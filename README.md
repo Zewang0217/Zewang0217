@@ -155,7 +155,12 @@
 
 <br/><br/>
 
-<!-- 统计卡片 -->
+<!-- Metrics 综合评分卡 -->
+<img src="https://metrics.lecoq.io/Zewang0217?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.ignored=html,css&languages.limit=8&languages.sections=most-used&languages.colors=nord&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&habits=1&habits.from=200&habits.days=14&habits.facts=false&habits.charts=false&introduction=0&people=0&followup=0&lines=0&traffic=0&stars=0&calendar=0&config.timezone=Asia%2FShanghai&config.twemoji=true" width="100%" alt="Metrics" />
+
+<br/><br/>
+
+<!-- 统计卡片 + 语言分布 -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" height="180px" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8" height="180px" />
 
