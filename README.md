@@ -150,14 +150,14 @@
 
 <div align="center">
 
-<!-- 3D 贡献图 -->
-<img src="https://raw.githubusercontent.com/Zewang0217/Zewang0217/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution" />
+<!-- 3D 贡献图（首次需手动触发 Actions 生成） -->
+<img src="https://raw.githubusercontent.com/Zewang0217/Zewang0217/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution" onerror="this.style.display='none'" />
 
 <br/><br/>
 
 <!-- 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8" height="180px" />
 
 <br/><br/>
 
