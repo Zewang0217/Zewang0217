@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:88C0D0,100:8FBCBB&height=220&section=header&text=Zewang%20/%20高兴昊&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Agent%20Architect%20%C2%B7%20Code%20Artist&descAlignY=62&descAlign=62&descSize=18&fontColor=ECEFF4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:88C0D0,100:8FBCBB&height=220&section=header&text=Zewang&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Agent%20Architect%20%C2%B7%20Code%20Artist&descAlignY=62&descAlign=62&descSize=18&fontColor=ECEFF4" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=88C0D0&center=true&vCenter=true&width=650&lines=🤖+Building+Multi-Agent+Systems+that+Think;🌐+Full-Stack+from+Silicon+to+Browser;🛡️+Hunting+Malicious+Code+with+AI;🚀+Shipping+Products,+Not+Just+Code" alt="Typing SVG" />
 </div>
@@ -37,7 +37,7 @@
 
 > *"代码是我的画布，Agent 是我的画笔。"*
 
-我是 **高兴昊 (Zewang)**，华东师范大学软件工程大二在读。我不只是写代码的人 —— 我是**系统架构师**、**Agent 设计者**、**安全猎人**。
+我是 **Zewang**，华东师范大学软件工程在读。我不只是写代码的人 —— 我是**系统架构师**、**Agent 设计者**、**安全猎人**。
 
 我的日常：
 - 🌅 早上：用 OpenClaw 编排 Multi-Agent 工作流
@@ -45,7 +45,7 @@
 - 🌙 晚上：让 Agent 自己在互联网上"游荡"收集情报
 - 🧪 偶尔：用 Agents-Debate 让两个 AI 吵一架，产出更靠谱的 PRD
 
-**当前状态：** 财跃星辰（阶跃星辰子公司）全栈实习 · 同时维护 6 个活跃项目
+**当前状态：** 同时维护 6 个活跃项目，专注于 Multi-Agent 系统与全栈产品开发
 
 **技术信仰：**
 > 优雅 > 复杂，逻辑 > 补丁，通用 > 特例。
@@ -180,7 +180,6 @@
 ```
 [██████████████░░░░░░░░░░] 55%  Cyber-Stray Knowledge Graph
 [████████████░░░░░░░░░░░░] 45%  AI-Jubensha Mobile App
-[████████░░░░░░░░░░░░░░░░] 30%  统一认证系统 (实习项目)
 ```
 
 <br/>
