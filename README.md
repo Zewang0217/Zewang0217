@@ -150,20 +150,18 @@
 
 <div align="center">
 
-<!-- 统计卡片 + 语言分布（固定同高并排） -->
-<a href="https://github.com/Zewang0217">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" />
-</a>
-<a href="https://github.com/Zewang0217">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8&hide=html,css" />
-</a>
+<!-- 统计卡片 + 语言分布（并排） -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8&hide=html,css" />
+</p>
 
 <br/><br/>
 
 <!-- 连续贡献 streak -->
-<a href="https://github.com/Zewang0217">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=nord&hide_border=true&background=2E3440&stroke=88C0D0&ring=5E81AC&fire=D08770&currStreakNum=88C0D0&sideNums=D8DEE9&currStreakLabel=88C0D0&sideLabels=81A1C1" />
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=nord&hide_border=true&background=2E3440&stroke=88C0D0&ring=5E81AC&fire=D08770&currStreakNum=88C0D0&sideNums=D8DEE9&currStreakLabel=88C0D0&sideLabels=81A1C1" />
+</p>
 
 <br/><br/>
 
@@ -172,10 +170,8 @@
 
 <br/><br/>
 
-<!-- 3D 贡献图（等 Actions 跑完首次生成后自动显示） -->
-<!--
+<!-- 3D 贡献图 -->
 <img src="https://raw.githubusercontent.com/Zewang0217/Zewang0217/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution" />
--->
 
 </div>
 
