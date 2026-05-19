@@ -37,15 +37,12 @@
 
 > *"代码是我的画布，Agent 是我的画笔。"*
 
-我是 **Zewang**，华东师范大学软件工程在读。我不只是写代码的人 —— 我是**系统架构师**、**Agent 设计者**、**安全猎人**。
+我是 **Zewang**，华东师范大学软件工程在读。我不只是写代码的人 —— 我是一个做有意思项目的极客开发者。
 
-我的日常：
-- 🌅 早上：用 OpenClaw 编排 Multi-Agent 工作流
-- ☕ 下午：在 Spring Boot 里调优高并发链路
-- 🌙 晚上：让 Agent 自己在互联网上"游荡"收集情报
-- 🧪 偶尔：用 Agents-Debate 让两个 AI 吵一架，产出更靠谱的 PRD
+这是我的**博客**, 记录了一些学习和日常的笔记: https://zewang0217.github.io/
 
-**当前状态：** 同时维护 6 个活跃项目，专注于 Multi-Agent 系统与全栈产品开发
+
+**当前状态：** 某初创公司实习ing, 项目开发ing
 
 **技术信仰：**
 > 优雅 > 复杂，逻辑 > 补丁，通用 > 特例。
@@ -90,12 +87,12 @@
 [![Stars](https://img.shields.io/github/stars/Zewang0217/cyber-stray?style=flat-square&color=5E81AC&label=⭐)](https://github.com/Zewang0217/cyber-stray)
 [![Lang](https://img.shields.io/badge/TypeScript-Node.js-blue?style=flat-square)](https://github.com/Zewang0217/cyber-stray)
 
-**设计哲学：** 不是爬虫，是"猎犬"—— 有目标、有判断、有记忆、有反思。
+**设计哲学：** 一个能上网, 给你发消息逗乐子的赛博宠物
 
 **能力矩阵：**
 - 🎯 **自主目标设定**：基于用户兴趣画像，Agent 自主决定"今天去哪逛、逛什么"
-- 🔍 **多源信息采集**：浏览器自动化 + API 调用 + RSS 聚合，覆盖技术博客、GitHub Trending、论文站点
-- 🧠 **智能筛选过滤**：本地 LLM 评估信息价值，自动丢弃低质量内容
+- 🔍 **多源信息采集**：web search/fetch + url wandering，duckduckgo, tavily, exa 等多渠道搜索
+- 🧠 **智能筛选过滤**：去重逻辑, 不推送重复信息
 - 📚 **知识沉淀**：有价值的信息自动分类、摘要、入库，构建个人知识图谱
 
 **技术栈：** `TypeScript` · `Playwright` · `LangChain` · `SQLite` · `Docker`
