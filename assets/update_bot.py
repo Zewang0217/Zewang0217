@@ -124,18 +124,23 @@ def ask_llm(activity):
     if not key:
         log("no LLM_API_KEY -> fallback")
         return None
-    base = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1").rstrip("/")
-    model = os.environ.get("LLM_MODEL", "gpt-4o-mini")
+    base = (os.environ.get("LLM_BASE_URL") or "https://api.deepseek.com").rstrip("/")
+    model = os.environ.get("LLM_MODEL") or "deepseek-v4-flash"
     n = now()
     user = (f"当前北京时间 {n:%Y-%m-%d %H:%M} (周{'一二三四五六日'[n.weekday()]})。\n"
             f"最近活动:\n{activity}\n请输出 JSON。")
-    body = json.dumps({
+    payload = {
         "model": model,
         "messages": [{"role": "system", "content": SYSTEM},
                      {"role": "user", "content": user}],
         "temperature": 0.85,
         "max_tokens": 140,
-    }).encode()
+        "response_format": {"type": "json_object"},
+    }
+    # DeepSeek V4 默认开 thinking 推理;一句台词用不上,关掉省 token 并让 temperature 生效
+    if "deepseek" in model:
+        payload["thinking"] = {"type": "disabled"}
+    body = json.dumps(payload).encode()
     req = urllib.request.Request(f"{base}/chat/completions", data=body, headers={
         "Authorization": f"Bearer {key}",
         "Content-Type": "application/json",
