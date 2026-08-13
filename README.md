@@ -157,7 +157,7 @@
 
 <!-- 连续贡献 streak -->
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zewang0217&theme=nord&hide_border=true&background=2E3440&stroke=88C0D0&ring=5E81AC&fire=D08770&currStreakNum=88C0D0&sideNums=D8DEE9&currStreakLabel=88C0D0&sideLabels=81A1C1" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Zewang0217&theme=nord&hide_border=true&background=2E3440&stroke=88C0D0&ring=5E81AC&fire=D08770&currStreakNum=88C0D0&sideNums=D8DEE9&currStreakLabel=88C0D0&sideLabels=81A1C1" />
 </p>
 
 <br/><br/>
