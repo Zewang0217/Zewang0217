@@ -149,8 +149,8 @@
 
 <!-- 统计卡片 + 语言分布（并排） -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8&hide=html,css" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zewang0217&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=5E81AC&custom_title=Zewang's%20GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zewang0217&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&langs_count=8&hide=html,css" />
 </p>
 
 <br/><br/>
