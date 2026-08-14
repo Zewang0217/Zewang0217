@@ -6,9 +6,9 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=88C0D0&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%90+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+%E4%BC%98%E9%9B%85+%3E+%E5%A4%8D%E6%9D%82%EF%BC%8C%E9%80%BB%E8%BE%91+%3E+%E8%A1%A5%E4%B8%81">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5E81AC&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%9C+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+%E4%BC%98%E9%9B%85+%3E+%E5%A4%8D%E6%9D%82%EF%BC%8C%E9%80%BB%E8%BE%91+%3E+%E8%A1%A5%E4%B8%81">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=88C0D0&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%90+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+%E4%BC%98%E9%9B%85+%3E+%E5%A4%8D%E6%9D%82%EF%BC%8C%E9%80%BB%E8%BE%91+%3E+%E8%A1%A5%E4%B8%81" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=88C0D0&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%90+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+Ship+%3E+Talk%2C+Code+%3E+Hype">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=5E81AC&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%9C+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+Ship+%3E+Talk%2C+Code+%3E+Hype">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=88C0D0&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Building+Agents+that+Think;%F0%9F%8C%90+Full-Stack+%C2%B7+Shanghai+%C2%B7+ECNU;%E2%9C%A8+Ship+%3E+Talk%2C+Code+%3E+Hype" alt="Typing SVG" />
   </picture>
 </div>
 
