@@ -2,9 +2,9 @@
 <g id="bubble">
 <rect x="30" y="16" width="380" height="94" rx="14" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" opacity="0.95"/>
 <text x="44" y="34" font-size="11" font-family="ui-monospace, &#x27;JetBrains Mono&#x27;, &#x27;Cascadia Code&#x27;, Consolas, monospace" fill="#5E81AC" opacity="0.7">$ release --prod</text>
-<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">刚把几个 PR 推上线，顺</text>
-<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">手又开了新分支。欢迎来</text>
-<text x="220" y="96" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">逛逛。</text>
+<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">刚把一个 PR 合进去，另</text>
+<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">一个又开了，感觉今天能</text>
+<text x="220" y="96" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">发好几趟车。</text>
 <path d="M212 110 L220 120 L228 110 Z" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="270" y="85" width="8" height="14" rx="2" fill="#A3BE8C"><animate attributeName="opacity" values="1;0.1;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
