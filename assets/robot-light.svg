@@ -2,9 +2,9 @@
 <g id="bubble">
 <rect x="30" y="16" width="380" height="94" rx="14" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" opacity="0.95"/>
 <text x="44" y="34" font-size="11" font-family="ui-monospace, &#x27;JetBrains Mono&#x27;, &#x27;Cascadia Code&#x27;, Consolas, monospace" fill="#5E81AC" opacity="0.7">$ code --watch</text>
-<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">PR 开了又关，关了又开</text>
-<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">，我猜这就是研发的浪漫</text>
-<text x="220" y="96" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">吧。</text>
+<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">一波 PR 开开关关，我还</text>
+<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">在敲键盘，代码没停，人</text>
+<text x="220" y="96" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">也没停。</text>
 <path d="M212 110 L220 120 L228 110 Z" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="270" y="85" width="8" height="14" rx="2" fill="#A3BE8C"><animate attributeName="opacity" values="1;0.1;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
