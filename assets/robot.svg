@@ -2,9 +2,9 @@
 <g id="bubble">
 <rect x="30" y="16" width="380" height="94" rx="14" fill="#2E3440" stroke="#88C0D0" stroke-width="1.5" opacity="0.95"/>
 <text x="44" y="34" font-size="11" font-family="ui-monospace, &#x27;JetBrains Mono&#x27;, &#x27;Cascadia Code&#x27;, Consolas, monospace" fill="#88C0D0" opacity="0.7">$ scaffold --new</text>
-<text x="220" y="52" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">主人在 cyber-stray 里</text>
-<text x="220" y="74" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">反复开合 PR，像是在搭</text>
-<text x="220" y="96" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">一座会跑的小城。稍等，</text>
+<text x="220" y="52" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">又在折腾 cyber-stray </text>
+<text x="220" y="74" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">分支，开开合合像搭乐高</text>
+<text x="220" y="96" font-size="14" font-weight="600" fill="#ECEFF4" text-anchor="middle">。</text>
 <path d="M212 110 L220 120 L228 110 Z" fill="#2E3440" stroke="#88C0D0" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="270" y="85" width="8" height="14" rx="2" fill="#5E81AC"><animate attributeName="opacity" values="1;0.1;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
