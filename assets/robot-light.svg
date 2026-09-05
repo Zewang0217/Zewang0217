@@ -1,12 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="380" viewBox="0 0 440 380" font-family="ui-sans-serif, system-ui, &#x27;PingFang SC&#x27;, &#x27;Microsoft YaHei&#x27;, sans-serif">
 <g id="bubble">
-<rect x="30" y="16" width="380" height="94" rx="14" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" opacity="0.95"/>
+<rect x="30" y="16" width="380" height="72" rx="14" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" opacity="0.95"/>
 <text x="44" y="34" font-size="11" font-family="ui-monospace, &#x27;JetBrains Mono&#x27;, &#x27;Cascadia Code&#x27;, Consolas, monospace" fill="#5E81AC" opacity="0.7">$ scaffold --new</text>
-<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">新分支已经开好，接下来</text>
-<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">就是一点点搭起来。欢迎</text>
-<text x="220" y="96" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">来看进度。</text>
-<path d="M212 110 L220 120 L228 110 Z" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" stroke-linejoin="round"/>
-<rect x="270" y="85" width="8" height="14" rx="2" fill="#5E81AC"><animate attributeName="opacity" values="1;0.1;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="220" y="52" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">三个仓库刚发芽，等它们</text>
+<text x="220" y="74" font-size="14" font-weight="600" fill="#2E3440" text-anchor="middle">长成我想要的优雅样子。</text>
+<path d="M212 88 L220 98 L228 88 Z" fill="#ECEFF4" stroke="#5E81AC" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="270" y="63" width="8" height="14" rx="2" fill="#5E81AC"><animate attributeName="opacity" values="1;0.1;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
 <g transform="translate(20 90)">
 <ellipse cx="200" cy="270" rx="130" ry="8" fill="#D8DEE9" opacity="0.4"/>
