@@ -80,7 +80,6 @@
 
 [![Email](https://img.shields.io/badge/Email-zewang0217@outlook.com-5E81AC?style=flat-square&logo=gmail&logoColor=white)](mailto:zewang0217@outlook.com)
 [![Blog](https://img.shields.io/badge/Blog-zewang0217.github.io-88C0D0?style=flat-square&logo=githubpages&logoColor=white)](https://zewang0217.github.io/)
-[![Website](https://img.shields.io/badge/Website-jiajiao.tothink.tech-A3BE8C?style=flat-square&logo=googlechrome&logoColor=white)](https://jiajiao.tothink.tech/)
 
 </div>
 
