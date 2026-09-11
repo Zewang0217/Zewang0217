@@ -63,9 +63,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zewang0217&theme=nord&hide_border=true&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=5E81AC&area_color=88C0D0&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zewang0217&theme=react-light&hide_border=true&bg_color=ECEFF4&color=4C566A&line=5E81AC&point=81A1C1&area_color=88C0D0&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zewang0217&theme=nord&hide_border=true&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=5E81AC&area_color=88C0D0&area=true" width="100%" alt="Activity Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" width="100%" alt="Contribution activity" />
 </picture>
 
 </div>

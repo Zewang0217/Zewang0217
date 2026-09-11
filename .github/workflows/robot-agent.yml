@@ -29,6 +29,16 @@ jobs:
           GH_USERNAME: ${{ github.repository_owner }}
         run: python assets/update_bot.py
 
+      # Self-hosted contribution card. continue-on-error: a GitHub API hiccup
+      # must not cost the robot update - the committed SVG simply stays stale
+      # (its "updated <timestamp>" line makes that visible).
+      - name: Render stats card
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: python assets/stats.py
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
@@ -37,6 +47,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes"
           else
-            git commit -m "chore(robot): self-update pose"
+            git commit -m "chore(profile): self-update robot + stats"
             git push
           fi
