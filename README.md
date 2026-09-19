@@ -35,7 +35,7 @@
 </div>
 
 <!--BOT_META-->
-<p align="center"><sub>🤖 上次自主思考 · 2026-09-19 12:38 (UTC+8) · 状态: <code>running</code></sub></p>
+<p align="center"><sub>🤖 上次自主思考 · 2026-09-19 20:30 (UTC+8) · 状态: <code>thinking</code></sub></p>
 <!--ENDBOT-->
 
 <details>
